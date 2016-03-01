@@ -9,7 +9,7 @@ The UI is from the famous App [Peach](http://peach.cool), thanks a lot.
 
 The layout file:
 
-<img src="/demo_code.png"/>
+<img src="http://ww4.sinaimg.cn/large/86e2ff85gw1f1hmtczm7gj21kw0wbgwn.jpg"/>
 
 
 

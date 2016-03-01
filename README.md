@@ -7,5 +7,9 @@ The UI is from the famous App [Peach](http://peach.cool), thanks a lot.
 
 [Demo apk download](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice/raw/master/app-debug.apk)
 
+The layout file:
+
+<img src="/demo_code.png"/>
+
 
 
